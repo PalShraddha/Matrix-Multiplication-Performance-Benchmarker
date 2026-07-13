@@ -1,10 +1,10 @@
-# 🚀 Matrix Multiplication Performance Benchmarker
+#  Matrix Multiplication Performance Benchmarker
 
 A Java-based benchmarking tool that compares the execution performance of different matrix multiplication algorithms. The project measures execution time, evaluates algorithm efficiency, and exports benchmark results to a CSV file for further analysis.
 
 ---
 
-## 📌 Features
+##  Features
 
 - Generate random matrices of configurable size
 - Benchmark multiple multiplication algorithms
@@ -15,7 +15,7 @@ A Java-based benchmarking tool that compares the execution performance of differ
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Java 26
 - Maven
@@ -108,8 +108,3 @@ is generated containing benchmark results.
 
 ---
 
-## 👩‍💻 Author
-
-**Shraddha Pal**
-
-GitHub: https://github.com/PalShraddha
